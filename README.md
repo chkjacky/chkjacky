@@ -94,4 +94,6 @@ I have just started my blog on [Medium](https://medium.com/@chihunkhaw). Stay tu
 ## 🤝 Let's Get Connected!
 Checkout my [LinkedIn](https://www.linkedin.com/in/chihunkhaw/) profile!
 
+Feel free to fork and star my repos. I will improve and create more programs for the community!
+
 <br />
