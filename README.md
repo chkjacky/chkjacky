@@ -34,7 +34,7 @@ I graduated from [UOW Malaysia KDU](https://www.uowmkdu.edu.my/) with a Bachelor
 
 ## 👨‍💻 Career Path
 I worked in [Genting](https://www.genting.com/) as a QA Test intern in 2020.
-At the same year, I started my carrer and work as a full time Junior Deep Learning Engineer at [Skymind Malaysia](https://skymind.global/).
+Then in the same year, I started my career and work as a full time Junior Deep Learning Engineer at [Skymind Malaysia](https://skymind.global/).
 
 <br />
 
@@ -79,10 +79,10 @@ At the same year, I started my carrer and work as a full time Junior Deep Learni
 
 *To be listed:* 👨‍🔬
 
-![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=critical)
-![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)
+![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)
 
 <br />
 
