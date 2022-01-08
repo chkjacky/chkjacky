@@ -97,3 +97,8 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/chihunkhaw/) profile!
 Feel free to fork and star my repos. I will improve and create more programs for the community!
 
 <br />
+
+<!-- 
+## 📊 My GitHub Stats (I'm new, only fewer data is displayed)
+![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihunkhaw&show_icons=true&theme=radical)
+-->
