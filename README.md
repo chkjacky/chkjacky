@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Nice To Meet You! 很高興認識你們！Apa Khabar? <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="25px">
+---
+My name is Chi Hun, you can call me Jacky. I am a software engineer from Malaysia and currently working as a Deep Learning Engineer in Skymind. I speak four languages: English :gb: <span>&#x1F1EC;&#x1F1E7;</span>, Cantonese :hong_kong:, Mandarin :taiwan:/:cn:, Malay :malaysia:
