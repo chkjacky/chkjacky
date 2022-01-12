@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![jacky_header](https://github.com/chihunkhaw/chihunkhaw/blob/main/github_profile_header.png?raw=true)
+
 
 ## Nice To Meet You! 好高興認識你！Apa Khabar? <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="25px">
 My name is Chi Hun, you can call me Jacky. I'm a software engineer from Malaysia and currently working as a Deep Learning Engineer at [Skymind Malaysia](https://skymind.global/). I speak four languages: English <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-united-kingdom_1f1ec-1f1e7.png" width="18px">, Cantonese <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-hong-kong-sar-china_1f1ed-1f1f0.png" width="18px">, Mandarin <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-taiwan_1f1f9-1f1fc.png" width="18px"> / <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-china_1f1e8-1f1f3.png" width="18px">, and Malay <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-malaysia_1f1f2-1f1fe.png" width="18px">.
@@ -87,7 +89,7 @@ Then in the same year, I started my career and work as a full time Junior Deep L
 <br />
 
 ## ✍️ Blog & Articles
-I have just started my blog on [Medium](https://medium.com/@chihunkhaw). Stay tuned for more interesting articles!
+I have just started my blog on [Medium](https://chjacky.medium.com/). Stay tuned for more interesting articles!
 
 <br />
 
