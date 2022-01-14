@@ -41,50 +41,57 @@ Then in the same year, I started my career and work as a full time Junior Deep L
 <br />
 
 ## ⚙️ Technologies / Tools
-![](https://img.shields.io/badge/Code-Arduino%20C-success?style=flat&logo=Arduino&logoColor=white)
-![](https://img.shields.io/badge/Code-CSS-success?style=flat&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/Code-C-success?style=flat&logo=C&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML-success?style=flat&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/Code-jQuery-success?style=flat&logo=jQuery&logoColor=white)
-![](https://img.shields.io/badge/Code-PHP-success?style=flat&logo=PHP&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white)
+[![](https://img.shields.io/badge/Code-Arduino%20C-success?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![](https://img.shields.io/badge/Code-CSS-success?style=flat&logo=CSS3&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Code-C-success?style=flat&logo=C&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Code-HTML-success?style=flat&logo=HTML5&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=JavaScript&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/Code-jQuery-success?style=flat&logo=jQuery&logoColor=white)](https://jquery.com/)
+[![](https://img.shields.io/badge/Code-PHP-success?style=flat&logo=PHP&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
 
-![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Framework-CodeIgniter%204-informational?style=flat&logo=CodeIgniter&logoColor=white&color=blueviolet)
+[![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=blueviolet)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/Framework-CodeIgniter%204-informational?style=flat&logo=CodeIgniter&logoColor=white&color=blueviolet)](https://codeigniter.com/)
 
-![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=ff69b4)
+[![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=green)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Database-OracleSQL-informational?style=flat&logo=Oracle&logoColor=white&color=green)](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
+[![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=green)](https://www.postgresql.org/)
 
-![](https://img.shields.io/badge/Tool-Bootstrap%20Studio-informational?style=flat&logo=Bootstrap&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-MySQL%20phpMyAdmin-informational?style=flat&logo=phpMyAdmin&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-MySQL%20WorkBench-informational?style=flat&logo=MySQL&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-OracleSQL-informational?style=flat&logo=Oracle&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-PostgreSQL%20pgAdmin4-informational?style=flat&logo=PostgreSQL&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-Classifai-informational?style=flat&color=orange)
+[![](https://img.shields.io/badge/Tool-Bootstrap%20Studio-informational?style=flat&logo=Bootstrap&logoColor=white&color=orange)](https://bootstrapstudio.io/)
+[![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=orange)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=orange)](https://git-scm.com/)
+[![](https://img.shields.io/badge/Tool-phpMyAdmin-informational?style=flat&logo=phpMyAdmin&logoColor=white&color=orange)](https://www.phpmyadmin.net/)
+[![](https://img.shields.io/badge/Tool-MySQL%20WorkBench-informational?style=flat&logo=MySQL&logoColor=white&color=orange)](https://www.mysql.com/products/workbench/)
+[![](https://img.shields.io/badge/Tool-pgAdmin4-informational?style=flat&logo=PostgreSQL&logoColor=white&color=orange)](https://www.pgadmin.org/)
+[![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=orange)](https://www.postman.com/)
+[![](https://img.shields.io/badge/Tool-Elementor-orange)](https://elementor.com/)
 
-![](https://img.shields.io/badge/Editor-Adruino%20IDE-informational?style=flat&logo=Arduino&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=yellow)
+[![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=ff69b4)](https://wordpress.org/download/)
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Cloud-Hostinger-informational?style=flat&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Cloud-SiteGround-informational?style=flat&logoColor=white&color=informational)
+[![](https://img.shields.io/badge/Editor-Adruino%20IDE-informational?style=flat&logo=Arduino&logoColor=white&color=yellow)](https://www.arduino.cc/en/software)
+[![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=yellow)](https://code.visualstudio.com/)
 
-![](https://img.shields.io/badge/API/SDK-Mailgun-informational?style=flat&logo=Mail.Ru&logoColor=white&color=red)
-![](https://img.shields.io/badge/API/SDK-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=red)
+[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=informational)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Cloud-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=informational)](https://github.com/)
+[![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=informational)](https://www.heroku.com/)
+[![](https://img.shields.io/badge/Cloud-Hostinger-informational?style=flat&logoColor=white&color=informational)](https://www.hostinger.com/)
+[![](https://img.shields.io/badge/Cloud-SiteGround-informational?style=flat&logoColor=white&color=informational)](https://www.siteground.com/)
 
+[![](https://img.shields.io/badge/API/SDK-Mailgun-informational?style=flat&logo=Mail.Ru&logoColor=white&color=red)](https://www.mailgun.com/)
+[![](https://img.shields.io/badge/API/SDK-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=red)](https://stripe.com/en-gb-my)
+
+etc!
 <br />
 
 *To be listed:* 👨‍🔬
 
-![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)
-![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)
-![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)
+[![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)](https://soliditylang.org/)
+[![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)](https://web3js.readthedocs.io/en/v1.5.2/)
+[![](https://img.shields.io/badge/ML/DL-Detectron2-cyan)](https://ai.facebook.com/tools/detectron2/)
+[![](https://img.shields.io/badge/Tool-Coco%20Annotator-cyan)](https://github.com/jsbroks/coco-annotator)
 
 <br />
 
