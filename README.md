@@ -72,7 +72,6 @@ Then in the same year, I started my career and work as a full time Junior Deep L
 [![](https://img.shields.io/badge/Editor-Adruino%20IDE-informational?style=flat&logo=Arduino&logoColor=white&color=yellow)](https://www.arduino.cc/en/software)
 [![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=yellow)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=informational)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/Cloud-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=informational)](https://github.com/)
 [![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=informational)](https://www.heroku.com/)
 [![](https://img.shields.io/badge/Cloud-Hostinger-informational?style=flat&logoColor=white&color=informational)](https://www.hostinger.com/)
@@ -86,6 +85,7 @@ etc!
 
 *To be listed:* 👨‍🔬
 
+[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=cyan)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)](https://soliditylang.org/)
