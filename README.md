@@ -87,9 +87,10 @@ etc!
 
 [![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=cyan)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=cyan)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)](https://soliditylang.org/)
 [![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)](https://web3js.readthedocs.io/en/v1.5.2/)
+[![](https://img.shields.io/badge/Framework-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/ML/DL-Detectron2-cyan)](https://ai.facebook.com/tools/detectron2/)
 [![](https://img.shields.io/badge/Tool-Coco%20Annotator-cyan)](https://github.com/jsbroks/coco-annotator)
 
