@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Nice To Meet You! 好高興認識你！Apa Khabar? <img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width="25px">
-My name is Jacky. I'm a software engineer from Malaysia and currently working as a Deep Learning Engineer at [Skymind Malaysia](https://skymind.global/). I speak four languages: English <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-united-kingdom_1f1ec-1f1e7.png" width="18px">, Cantonese <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-hong-kong-sar-china_1f1ed-1f1f0.png" width="18px">, Mandarin <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-taiwan_1f1f9-1f1fc.png" width="18px"> / <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-china_1f1e8-1f1f3.png" width="18px">, and Malay <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-malaysia_1f1f2-1f1fe.png" width="18px">.
+My name is Jacky. I'm a software engineer from Malaysia. I speak four languages: English <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-united-kingdom_1f1ec-1f1e7.png" width="18px">, Cantonese <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-hong-kong-sar-china_1f1ed-1f1f0.png" width="18px">, Mandarin <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-taiwan_1f1f9-1f1fc.png" width="18px"> / <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-china_1f1e8-1f1f3.png" width="18px">, and Malay <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-malaysia_1f1f2-1f1fe.png" width="18px">.
 
 
 🌱 I’m currently learning React.js, Solidity and Web3.js. I will explore RubyOnRails soon.
@@ -35,8 +35,11 @@ I graduated from [UOW Malaysia KDU](https://www.uowmkdu.edu.my/) with a Bachelor
 <br />
 
 ## 👨‍💻 Career Path
-I worked in [Genting](https://www.genting.com/) as a QA Test intern in 2020.
-Then in the same year, I started my career and work as a full time Junior Deep Learning Engineer at [Skymind Malaysia](https://skymind.global/).
+I worked as a:
+1. QA Test intern in [Genting](https://www.genting.com/) in 2020
+2. Full time Junior Deep Learning Engineer at [Skymind Malaysia](https://skymind.global/) from 2020 to 2022
+
+Currently seeking opportunities.
 
 <br />
 
@@ -86,11 +89,17 @@ etc!
 *To be listed:* 👨‍🔬
 
 [![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=cyan)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=cyan)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=cyan)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)](https://soliditylang.org/)
+[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cyan)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)](https://web3js.readthedocs.io/en/v1.5.2/)
+[![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=cyan)](https://laravel.com/)
+[![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=Node.js&logoColor=white&color=cyan)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=cyan)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Framework-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=cyan)](https://vuejs.org/)
 [![](https://img.shields.io/badge/ML/DL-Detectron2-cyan)](https://ai.facebook.com/tools/detectron2/)
 [![](https://img.shields.io/badge/Tool-Coco%20Annotator-cyan)](https://github.com/jsbroks/coco-annotator)
 
