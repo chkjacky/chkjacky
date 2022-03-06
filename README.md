@@ -96,7 +96,7 @@ etc!
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cyan)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)](https://web3js.readthedocs.io/en/v1.5.2/)
 [![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=cyan)](https://laravel.com/)
-[![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=Node.js&logoColor=white&color=cyan)](https://nextjs.org/)
+[![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=Node.js&logoColor=white&color=cyan)](https://nestjs.com/)
 [![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=cyan)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Framework-Ruby%20on%20Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=cyan)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=cyan)](https://vuejs.org/)
