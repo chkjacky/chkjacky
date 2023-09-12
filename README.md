@@ -80,7 +80,7 @@ My name is Jacky. I'm a software engineer from Malaysia.
 <br />
 
 ## ✍️ Blog & Articles
-I have just started my blog on [Medium](https://medium.com/@chkj). Stay tuned for more interesting articles!
+I have just started my blog on [Medium](https://chkj.medium.com/). Stay tuned for more interesting articles!
 
 <br />
 
