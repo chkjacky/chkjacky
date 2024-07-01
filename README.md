@@ -28,17 +28,27 @@ My name is Jacky. I'm a software engineer from Malaysia.
 <br />
 
 ## ⚙️ Technologies / Tools
-[![](https://img.shields.io/badge/Code-Arduino%20C-success?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/Code-C-success?style=flat&logo=C&logoColor=white)](https://github.com/chkjacky)
-[![](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=JavaScript&logoColor=white)](https://github.com/chkjacky)
-[![](https://img.shields.io/badge/Code-Java-success?style=flat&logo=Java&logoColor=white)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/Code-PHP-success?style=flat&logo=PHP&logoColor=white)](https://www.php.net/)
-[![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/Code-Ruby-success?style=flat&logo=Ruby&logoColor=white)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Lang-Arduino%20C-success?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![](https://img.shields.io/badge/Lang-C-success?style=flat&logo=C&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Lang-Java-success?style=flat&logo=Java&logoColor=white)](https://www.java.com/en/)
+[![](https://img.shields.io/badge/Lang-JavaScript-success?style=flat&logo=JavaScript&logoColor=white)](https://github.com/chkjacky)
+[![](https://img.shields.io/badge/Lang-PHP-success?style=flat&logo=PHP&logoColor=white)](https://www.php.net/)
+[![](https://img.shields.io/badge/Lang-Python-success?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/Lang-Ruby-success?style=flat&logo=Ruby&logoColor=white)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Lang-Solidity-success?style=flat&logo=Solidity&logoColor=white)](https://soliditylang.org/)
+[![](https://img.shields.io/badge/Lang-Typescript-success?style=flat&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+[![](https://img.shields.io/badge/Lib-jQuery-success?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![](https://img.shields.io/badge/Lib-React-success?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![](https://img.shields.io/badge/Lib-SolidJS-success?style=flat&logo=Solid&logoColor=white)](https://www.solidjs.com/)
 
 [![](https://img.shields.io/badge/Framework-CodeIgniter%204-informational?style=flat&logo=CodeIgniter&logoColor=white&color=blueviolet)](https://codeigniter.com/)
-[![](https://img.shields.io/badge/Framework-Laravel%204-informational?style=flat&logo=Laravel&logoColor=white&color=blueviolet)](https://laravel.com/)
+[![](https://img.shields.io/badge/Framework-Laravel%209-informational?style=flat&logo=Laravel&logoColor=white&color=blueviolet)](https://laravel.com/)
+[![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=blueviolet)](https://nestjs.com/)
+[![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=blueviolet)](https://nextjs.org/)
 [![](https://img.shields.io/badge/Framework-Ruby%20on%20Rails%20-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=blueviolet)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/Framework-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=blueviolet)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/Framework-Shadcn-informational?style=flat&logo=shadcnui&logoColor=white&color=blueviolet)](https://ui.shadcn.com/)
 
 [![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=green)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/Database-OracleSQL-informational?style=flat&logo=Oracle&logoColor=white&color=green)](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html)
@@ -53,11 +63,13 @@ My name is Jacky. I'm a software engineer from Malaysia.
 <!-- [![](https://img.shields.io/badge/Editor-Adruino%20IDE-informational?style=flat&logo=Arduino&logoColor=white&color=yellow)](https://www.arduino.cc/en/software) -->
 <!-- [![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=yellow)](https://code.visualstudio.com/) -->
 
+[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=informational)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/Cloud-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=informational)](https://github.com/)
 [![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=informational)](https://www.heroku.com/)
 <!-- [![](https://img.shields.io/badge/Cloud-SiteGround-informational?style=flat&logoColor=white&color=informational)](https://www.siteground.com/) -->
 
 [![](https://img.shields.io/badge/API/SDK-Mailgun-informational?style=flat&logo=Mail.Ru&logoColor=white&color=red)](https://www.mailgun.com/)
+[![](https://img.shields.io/badge/API/SDK-Sequence-informational?style=flat&logoColor=white&color=red)](https://sequence.xyz/)
 [![](https://img.shields.io/badge/API/SDK-Stripe-informational?style=flat&logo=Stripe&logoColor=white&color=red)](https://stripe.com/en-gb-my)
 
 <br />
@@ -67,12 +79,11 @@ My name is Jacky. I'm a software engineer from Malaysia.
 <!-- [![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=cyan)](https://aws.amazon.com/) -->
 <!-- [![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=cyan)](https://nodejs.org/en/) -->
 <!-- [![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=cyan)](https://reactjs.org/) -->
-[![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=cyan)](https://go.dev/)
-[![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&logoColor=white&color=cyan)](https://soliditylang.org/)
-[![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=cyan)](https://www.typescriptlang.org/)
+<!-- [![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=cyan)](https://go.dev/) -->
+[![](https://img.shields.io/badge/Framework-SolidStart-informational?style=flat&logo=Solid&logoColor=white&color=blueviolet)](https://start.solidjs.com/)
+[![](https://img.shields.io/badge/Lang-Scrypto-success?style=flat&logoColor=white)](https://www.radixdlt.com/blog/scrypto-an-asset-oriented-smart-contract-language)
+[![](https://img.shields.io/badge/Lang-Rust-success?style=flat&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
 <!-- [![](https://img.shields.io/badge/Code-Web3.js-informational?style=flat&logo=Web3.js&logoColor=white&color=cyan)](https://web3js.readthedocs.io/en/v1.5.2/) -->
-<!-- [![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=Node.js&logoColor=white&color=cyan)](https://nestjs.com/) -->
-<!-- [![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=cyan)](https://nextjs.org/) -->
 <!-- [![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=cyan)](https://vuejs.org/) -->
 <!-- [![](https://img.shields.io/badge/ML/DL-Detectron2-cyan)](https://ai.facebook.com/tools/detectron2/) -->
 <!-- [![](https://img.shields.io/badge/Tool-Coco%20Annotator-cyan)](https://github.com/jsbroks/coco-annotator) -->
